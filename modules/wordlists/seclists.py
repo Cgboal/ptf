@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 #####################################
-# Installation module for b374k
+# Installation module for SecLists
 #####################################
 
 # AUTHOR OF MODULE NAME
